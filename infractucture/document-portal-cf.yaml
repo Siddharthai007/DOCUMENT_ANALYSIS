@@ -70,7 +70,7 @@ Resources:
     Type: AWS::EC2::VPCGatewayAttachment
     Properties:
       VpcId: !Ref MyVPC
-      InternetGatewayId: !Ref InternetGateway 
+      InternetGatewayId: !Ref InternetGateway
 
   RouteTable:
     Type: AWS::EC2::RouteTable
@@ -204,3 +204,4 @@ Outputs:
 
   TaskDefinitionArn:
     Value: !Ref ECSTaskDefinition
+    
