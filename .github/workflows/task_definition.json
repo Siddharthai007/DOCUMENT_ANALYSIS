@@ -1,7 +1,7 @@
 {
   "family": "documentportaltd",
   "networkMode": "awsvpc",
-  "executionRoleArn": "arn:aws:iam::459497895986:role/ecsTaskExecutionRole",
+  "executionRoleArn": "arn:aws:iam::041863017801:user/github-cicd",
   "requiresCompatibilities": ["FARGATE"],
   "cpu": "1024",
   "memory": "8192",
@@ -29,7 +29,7 @@
       "secrets": [
         {
           "name": "API_KEYS",
-          "valueFrom": "arn:aws:iam::041863017801:user/github-cicd"
+          "valueFrom": "arn:aws:secretsmanager:ap-south-1:041863017801:secret:API_KEYS-pIBh3F"
         }
         
       ],
