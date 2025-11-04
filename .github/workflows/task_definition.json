@@ -1,7 +1,7 @@
 {
   "family": "documentportaltd",
   "networkMode": "awsvpc",
-  "executionRoleArn": "arn:aws:iam::041863017801:user/github-cicd",
+  "executionRoleArn": "arn:aws:ecs:ap-south-1:041863017801:task-definition/documentportal:1",
   "requiresCompatibilities": ["FARGATE"],
   "cpu": "1024",
   "memory": "8192",
