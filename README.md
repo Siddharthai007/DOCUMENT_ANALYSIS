@@ -51,9 +51,51 @@ This project is designed as part of an academic submission to demonstrate the pr
 
 ---
 
+## 🗂️ Folder Structure
+DOCUMENT_ANALYSIS/
+│
+├── app.py                # Streamlit main file
+├── main_archieve.py      # Core logic file
+├── api/                  # Backend API modules
+├── model/                # Model embeddings and retrieval
+├── src/                  # Utility scripts
+├── templates/            # HTML templates
+├── requirements.txt
+└── README.md
+
+---
+
+## 📊 Example Use Cases
+
+Academic research paper summarization
+
+Legal document comparison
+
+Report or contract understanding
+
+Automated question answering from multiple sources
+
+---
+## 🧩 Future Enhancements
+
+Support for image-based documents (OCR)
+
+Integration with local/offline LLMs
+
+Advanced keyword extraction and clustering
+
+Enhanced UI and multi-user support
+
+---
+
+## 🪪 License
+
+This project is for academic and educational purposes under the MIT License.
+
 ## ⚙️ Installation and Setup
 
 ### 1. Clone the Repository  
 ```bash
 git clone https://github.com/Siddharthai007/DOCUMENT_ANALYSIS.git
 cd DOCUMENT_ANALYSIS
+
