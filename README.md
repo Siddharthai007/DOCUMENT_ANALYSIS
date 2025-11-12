@@ -92,10 +92,7 @@ Enhanced UI and multi-user support
 
 This project is for academic and educational purposes under the MIT License.
 
-## ⚙️ Installation and Setup
 
-### 1. Clone the Repository  
-```bash
-git clone https://github.com/Siddharthai007/DOCUMENT_ANALYSIS.git
-cd DOCUMENT_ANALYSIS
+
+
 
