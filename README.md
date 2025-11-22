@@ -88,9 +88,6 @@ Enhanced UI and multi-user support
 
 ---
 
-## 🪪 License
-
-This project is for academic and educational purposes under the MIT License.
 
 
 
