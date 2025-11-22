@@ -54,13 +54,21 @@ This project is designed as part of an academic submission to demonstrate the pr
 ## 🗂️ Folder Structure
 DOCUMENT_ANALYSIS/
 │
+
 ├── app.py                # Streamlit main file
+
 ├── main_archieve.py      # Core logic file
+
 ├── api/                  # Backend API modules
+
 ├── model/                # Model embeddings and retrieval
+
 ├── src/                  # Utility scripts
+
 ├── templates/            # HTML templates
+
 ├── requirements.txt
+
 └── README.md
 
 ---
